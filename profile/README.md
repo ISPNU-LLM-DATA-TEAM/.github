@@ -10,4 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-介绍
+This Reporitory serves as basics of projects delivered by members of ISPNU-LMM-DATA-Team.
+（1）分组情况
+目前本组主要分为两个方向
+1.基于大模型的...[English Name]
+主要研究方向为：...
+2.云边协同系统优化调度[English Name]
+主要研究方向为：...
+(2)成果展示
+本组科研成果、论文等会上传到该组织，供大家学习交流！
+
