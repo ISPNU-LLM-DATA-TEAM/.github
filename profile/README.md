@@ -1,4 +1,4 @@
-## This Reporitory serves as basics of projects delivered by members of ISPNU-LMM-DATA-Team.
+## This Reporitory serves as basics of projects delivered by members of LMM-DATA-Team.
 
 <!--
 
